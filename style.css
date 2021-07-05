@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+}
+
+h2{
+    display: inline-block;
+    margin: auto 0 auto 35vw;
+}
+
+.button{
+    display: inline;
+    margin-left: 15vw;
+}
+.row{
+    text-align: center;
+    
+}
+h1{
+    font-size: 5vw;
+}
+
+#total_cases{
+    color: rgb(82, 82, 255);
+    font-size: 5vw;
+}
+#total_deaths{
+    color: rgb(255, 95, 95);
+    font-size: 5vw;
+}
+
+#total_recovered{
+    color: rgb(69, 236, 69);
+    font-size: 5vw;
+}
